@@ -20,12 +20,14 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./my-react-app
 
       - name: Build Vite app
         run: npm run build
-
+        working-directory: ./my-react-app
+        
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist   # Vite build output
+          publish_dir: ./my-react-app/dist   # Vite build output
