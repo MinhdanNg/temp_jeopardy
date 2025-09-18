@@ -66,35 +66,35 @@
           open: true,
         }
       ]
-      },{theme: "Astronomy", 
+      },{theme: "Geography", 
       questions: [
         {
-          question: "What planet is closest to the sun?", 
-          answer: "Mercury",
+          question: "Where is Norway?", 
+          answer: "Europe",
           points: 200,
           open: true,
         },
         {
-          question: "What is the second planet?",
-          answer: "Venus",
+          question: "What is the largest continent?",
+          answer: "Asia",
           points: 400,
           open: true,
         },
         {
-          question: "What is the largest planet?",
-          answer: "Saturn",
+          question: "What country has the largest population?",
+          answer: "India",
           points: 600,
           open: true,
         },
         {
-          question: "What is no longer a planet?",
-          answer: "Pluto",
+          question: "Tallest mountain?",
+          answer: "Mt. Everest",
           points: 800,
           open: true,
         },
         {
-          question: "Closest star?",
-          answer: "Proxima Centauri",
+          question: "How many people in Vietnam?",
+          answer: "101 millions",
           points: 1000,
           open: true,
         }
