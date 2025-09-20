@@ -1,198 +1,165 @@
   const themes = [
-    {theme: "Astronomy", 
+    {theme: "Vietnam", 
       questions: [
         {
-          question: "What planet is closest to the sun?", 
+          question: "Hva er Vietnams nasjonaldyr?", 
           answer: "Mercury",
           points: 200,
           open: true,
         },
         {
-          question: "What is the second planet?",
+          question: "Vietnamesiske retter inneholder en kombinasjon av fem fundamentale smaker, som ofte kalles Ngũ vị, hva er disse fem smakene?",
           answer: "Venus",
           points: 400,
           open: true,
         },
         {
-          question: "What is the largest planet?",
+          question: "Hva er Vietnams viktigste eksportprodukt i dag?",
           answer: "Saturn",
           points: 600,
           open: true,
         },
         {
-          question: "What is no longer a planet?",
+          question: "Mim dette...",
           answer: "Pluto",
           points: 800,
           open: true,
         },
         {
-          question: "Closest star?",
+          question: "Ma trành (Tiger slave spøkelse) er en skikkelse fra Vietnams mytologi? Hva går legenden ut på?",
           answer: "Proxima Centauri",
           points: 1000,
           open: true,
         }
       ]
       },
-      {theme: "Astronomy", 
+      {theme: "Mat og drikke", 
       questions: [
         {
-          question: "What planet is closest to the sun?", 
+          question: "Hvilken grønnsak blir mest spist i verden?", 
           answer: "Mercury",
           points: 200,
           open: true,
         },
         {
-          question: "What is the second planet?",
+          question: "Hva er verdens mest stjålne matvare?",
           answer: "Venus",
           points: 400,
           open: true,
         },
         {
-          question: "What is the largest planet?",
+          question: "Hva er hovedingrediense til karsk?",
           answer: "Saturn",
           points: 600,
           open: true,
         },
         {
-          question: "What is no longer a planet?",
+          question: "Mim dette...",
           answer: "Pluto",
           points: 800,
           open: true,
         },
         {
-          question: "Closest star?",
+          question: "",
           answer: "Proxima Centauri",
           points: 1000,
           open: true,
         }
       ]
-      },{theme: "Geography", 
+      },{theme: "Film og TV", 
       questions: [
         {
-          question: "Where is Norway?", 
+          question: "Hvilken serie kommer denne musikken fra?", 
           answer: "Europe",
           points: 200,
           open: true,
         },
         {
-          question: "What is the largest continent?",
+          question: "Hvilken film er dette?",
           answer: "Asia",
           points: 400,
           open: true,
         },
         {
-          question: "What country has the largest population?",
+          question: "Hvilken mission impossible film er dette?",
           answer: "India",
           points: 600,
           open: true,
         },
         {
-          question: "Tallest mountain?",
+          question: "Mim dette ...",
           answer: "Mt. Everest",
           points: 800,
           open: true,
         },
         {
-          question: "How many people in Vietnam?",
+          question: "Hvilken film spiller disse skuespillerne sammen i?",
           answer: "101 millions",
           points: 1000,
           open: true,
         }
       ]
-      },{theme: "Astronomy", 
+      },{theme: "Rare lyder", 
       questions: [
         {
-          question: "What planet is closest to the sun?", 
+          question: "Hvilken lyd er dette?", 
           answer: "Mercury",
           points: 200,
           open: true,
         },
         {
-          question: "What is the second planet?",
+          question: "Hvilken lyd er dette?",
           answer: "Venus",
           points: 400,
           open: true,
         },
         {
-          question: "What is the largest planet?",
+          question: "Hvilken lyd er dette?",
           answer: "Saturn",
           points: 600,
           open: true,
         },
         {
-          question: "What is no longer a planet?",
+          question: "Hvilken lyd er dette?",
           answer: "Pluto",
           points: 800,
           open: true,
         },
         {
-          question: "Closest star?",
+          question: "Hvilken lyd er dette?Closest star?",
           answer: "Proxima Centauri",
           points: 1000,
           open: true,
         }
       ]
-      },{theme: "Astronomy", 
+      },{theme: "Interessante tall", 
       questions: [
         {
-          question: "What planet is closest to the sun?", 
+          question: "7 24 365 12", 
           answer: "Mercury",
           points: 200,
           open: true,
         },
         {
-          question: "What is the second planet?",
+          question: "007 101 221b",
           answer: "Venus",
           points: 400,
           open: true,
         },
         {
-          question: "What is the largest planet?",
+          question: "7 19 21 25 31",
           answer: "Saturn",
           points: 600,
           open: true,
         },
         {
-          question: "What is no longer a planet?",
+          question: "SE 7 8 X 11",
           answer: "Pluto",
           points: 800,
           open: true,
         },
         {
-          question: "Closest star?",
-          answer: "Proxima Centauri",
-          points: 1000,
-          open: true,
-        }
-      ]
-      },{theme: "Astronomy", 
-      questions: [
-        {
-          question: "What planet is closest to the sun?", 
-          answer: "Mercury",
-          points: 200,
-          open: true,
-        },
-        {
-          question: "What is the second planet?",
-          answer: "Venus",
-          points: 400,
-          open: true,
-        },
-        {
-          question: "What is the largest planet?",
-          answer: "Saturn",
-          points: 600,
-          open: true,
-        },
-        {
-          question: "What is no longer a planet?",
-          answer: "Pluto",
-          points: 800,
-          open: true,
-        },
-        {
-          question: "Closest star?",
+          question: "3 4 10 12 40",
           answer: "Proxima Centauri",
           points: 1000,
           open: true,
